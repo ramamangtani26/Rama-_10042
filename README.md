@@ -28,9 +28,7 @@ A comprehensive Java Swing-based banking system that simulates real-world bankin
 2. **Savings Account** - Interest-bearing savings account
 3. **Student Account** - Special account type for students
 
-## Screenshots
-![Banking System Login](screenshot/1.png)
-![Banking System Menu](screenshot/2.png)
+
 
 ## Technologies Used
 - **Java 17+** - Core programming language
